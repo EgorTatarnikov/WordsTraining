@@ -1,0 +1,7 @@
+language язык
+world мир
+woman женщина
+country страна
+car машина
+man мужчина
+work работа
