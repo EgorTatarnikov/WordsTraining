@@ -1,0 +1,9 @@
+# Игнорировать DFM и ресурсы при подсчёте языка
+*.dfm linguist-generated=true
+*.res linguist-generated=true
+*.cbproj linguist-generated=true
+*.cbproj.local linguist-generated=true
+
+# Основной язык — C++
+*.cpp linguist-language=C++
+*.h linguist-language=C++
