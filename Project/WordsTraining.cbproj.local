@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\Project4.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\Project4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\Project4.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\Project4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\Project4.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\WordsTraining.cbproj=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\WordsTrainingV7.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.497,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\WordsTrainingV6.cbproj=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\WordsTrainingV7.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\Unit3.cpp=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\MainUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\Unit3.dfm=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\Unit1.dfm=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\DescriptionUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,C:\Users\USER\Desktop\Project\LB7.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\WordsTraining.res=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\WordsTrainingV7.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\WordsTraningV2.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\WordsTraningV1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\WordsTraningV3.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\WordsTraningV2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\WordsTraningV6.cbproj=C:\Users\EGOR\Documents\RAD Studio\WordsTrainingV4\WordsTraningV4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\WordsTraningV1.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\Project5.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\WordsTrainingV4\WordsTraningV4.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\WordsTraningV4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\WordsTrainingV6\WordsTraningV6.cbproj=C:\Users\EGOR\Documents\RAD Studio\WordsTraningV6.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\Unit1.h=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\DescriptionUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\WordsTraningV4.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\WordsTraningV3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\Project3.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\Unit3.h=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\MainUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\Project5.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\Project4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\Unit1.cpp=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\DescriptionUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\WordsTrainingV7.res=C:\Users\USER\Desktop\WordsTraningGitHubRep2\Project\WordsTraining.res</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\EGOR\Documents\RAD Studio\Projects\Project3.cbproj=C:\Users\EGOR\Documents\RAD Studio\Projects\Project3.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="WordsTraining.cpp"/>
+    <File Path="MainUnit.cpp"/>
+    <File Path="MainUnit.cpp"/>
+    <File Path="MainUnit.dfm"/>
+    <File Path="MainUnit.h"/>
+    <File Path="DescriptionUnit.cpp"/>
+    <File Path="DescriptionUnit.cpp"/>
+    <File Path="DescriptionUnit.dfm"/>
+    <File Path="DescriptionUnit.h"/>
+    <File Path="WordsTraining.res"/>
+  </ProjectSortOrder>
+</BorlandProject>

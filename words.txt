@@ -1,5 +1,5 @@
 hello привет
-world мир
+apple яблоко
 house дом
 cat кошка
 dog собака
