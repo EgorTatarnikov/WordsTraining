@@ -8,7 +8,7 @@ object Form3: TForm3
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = 'Words Training'
-  ClientHeight = 302
+  ClientHeight = 273
   ClientWidth = 494
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -22,15 +22,15 @@ object Form3: TForm3
   OnKeyDown = FormKeyDown
   TextHeight = 12
   object Label2: TLabel
-    Left = 204
-    Top = 251
-    Width = 90
+    Left = 238
+    Top = 224
+    Width = 86
     Height = 19
     Margins.Left = 2
     Margins.Top = 2
     Margins.Right = 2
     Margins.Bottom = 2
-    Caption = 'Right/Wrong'
+    Caption = 'Last answer'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = 0
@@ -105,6 +105,23 @@ object Form3: TForm3
     Font.Style = []
     ParentFont = False
   end
+  object Label1: TLabel
+    Left = 46
+    Top = 224
+    Width = 38
+    Height = 19
+    Margins.Left = 2
+    Margins.Top = 2
+    Margins.Right = 2
+    Margins.Bottom = 2
+    Caption = 'Word'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = 0
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
   object OK: TButton
     Left = 403
     Top = 178
@@ -125,9 +142,9 @@ object Form3: TForm3
     OnClick = OKClick
   end
   object Button1: TButton
-    Left = 402
+    Left = 403
     Top = 124
-    Width = 47
+    Width = 46
     Height = 26
     Margins.Left = 2
     Margins.Top = 2
@@ -274,9 +291,9 @@ object Form3: TForm3
     TabOrder = 9
   end
   object Edit4: TEdit
-    Left = 223
+    Left = 328
     Top = 221
-    Width = 53
+    Width = 70
     Height = 27
     Margins.Left = 2
     Margins.Top = 2
@@ -382,7 +399,7 @@ object Form3: TForm3
   object Edit5: TEdit
     Left = 96
     Top = 221
-    Width = 65
+    Width = 70
     Height = 27
     Margins.Left = 2
     Margins.Top = 2

@@ -6,7 +6,7 @@ object Form1: TForm1
   Margins.Right = 2
   Margins.Bottom = 2
   Caption = 'Description'
-  ClientHeight = 367
+  ClientHeight = 343
   ClientWidth = 534
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -174,14 +174,14 @@ object Form1: TForm1
   end
   object Label11: TLabel
     Left = 17
-    Top = 285
-    Width = 157
+    Top = 264
+    Width = 251
     Height = 17
     Margins.Left = 2
     Margins.Top = 2
     Margins.Right = 2
     Margins.Bottom = 2
-    Caption = 'Ctrl '#1076#1091#1073#1083#1080#1088#1091#1077#1090' '#1082#1085#1086#1087#1082#1091' ?'
+    Caption = '? - '#1055#1086#1076#1089#1082#1072#1079#1082#1072', Ctrl '#1076#1091#1073#1083#1080#1088#1091#1077#1090' '#1082#1085#1086#1087#1082#1091' ?'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -14
@@ -191,14 +191,14 @@ object Form1: TForm1
   end
   object Label12: TLabel
     Left = 17
-    Top = 264
-    Width = 180
+    Top = 285
+    Width = 280
     Height = 17
     Margins.Left = 2
     Margins.Top = 2
     Margins.Right = 2
     Margins.Bottom = 2
-    Caption = 'Enter '#1076#1091#1073#1083#1080#1088#1091#1077#1090' '#1082#1085#1086#1087#1082#1091' '#1054#1050
+    Caption = 'OK - '#1055#1088#1086#1074#1077#1088#1082#1072', Enter '#1076#1091#1073#1083#1080#1088#1091#1077#1090' '#1082#1085#1086#1087#1082#1091' '#1054#1050
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -14
@@ -208,7 +208,7 @@ object Form1: TForm1
   end
   object Label13: TLabel
     Left = 198
-    Top = 334
+    Top = 318
     Width = 142
     Height = 17
     Margins.Left = 2

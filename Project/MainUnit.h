@@ -42,6 +42,7 @@ __published:	// IDE-managed Components
 	TMenuItem *File1;
 	TMenuItem *SelectFile1;
 	TMenuItem *Description1;
+	TLabel *Label1;
 	void __fastcall OKClick(TObject *Sender);
 	void __fastcall Button1Click(TObject *Sender);
 	void __fastcall Button4Click(TObject *Sender);

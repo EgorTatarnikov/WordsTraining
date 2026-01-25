@@ -19,6 +19,7 @@ TForm3 *Form3;
  int RAND=1;
  int j=1;
  int Count=0;
+
 //---------------------------------------------------------------------------
 __fastcall TForm3::TForm3(TComponent* Owner)
 	: TForm(Owner)
@@ -89,8 +90,6 @@ y=Edit3->Text;
   }
 }
 catch (ERangeError &) {
-    // игнорируем — ничего не делаем
-    // или Edit4->Text = "Ошибка индекса";
 }
 }
 
@@ -99,9 +98,14 @@ catch (ERangeError &) {
 
 void __fastcall TForm3::Button1Click(TObject *Sender)
 {
- OKClick(NULL);
- Edit3->Clear();
- Edit3->Text = Memo7->Lines->Strings[0];
+	if (Memo7->Lines->Strings[0]==Edit3->Text) {
+        return;
+	}
+	else {
+		OKClick(NULL);
+		Edit3->Clear();
+		Edit3->Text = Memo7->Lines->Strings[0];
+	}
 
 }
 //---------------------------------------------------------------------------
@@ -158,22 +162,6 @@ y=Edit3->Text;
 }
 //---------------------------------------------------------------------------
 
-
-/*void __fastcall TForm3::Edit3KeyDown(TObject *Sender, WORD &Key, TShiftState Shift)
-{
-	if (Key == VK_RETURN)
-    {
-		OKClick(NULL);
-		Key = 0;
-	}
-
-	if (Key == VK_CONTROL)
-	{
-		Button1Click(NULL);
-		Key = 0;
-	}
-}   */
-//---------------------------------------------------------------------------
 
 
 
@@ -261,7 +249,6 @@ void __fastcall TForm3::Description1Click(TObject *Sender)
 {
 
    Form1->ShowModal();
-	//  ShowMessage("Текст сообщения  ghdtn"  "ghbdtn");
 }
 //---------------------------------------------------------------------------
 
@@ -283,4 +270,6 @@ void __fastcall TForm3::FormKeyDown(TObject *Sender, WORD &Key, TShiftState Shif
         return;
     }
 }
+
+
 
